@@ -20,6 +20,7 @@
 - Android API 34
 - Pleos Connect v2.1.0 시뮬레이터
 - Pleos Playground SDK
+- 에뮬레이터 화면 규격: 2560 × 1440 px (160 dpi)
 
 ## 4. 실행 방법
 1. Android Studio에서 프로젝트를 엽니다.
@@ -40,6 +41,8 @@ Pleos 전용 SDK 및 시뮬레이터 환경이 필요합니다.
 7. 김해천문대를 선택하고 Pleos 내비게이션 경로 요청을 실행합니다.
 
 ## 6. APK
-GitHub Releases의 **StarRoute v1.0.0**에서 `app-debug.apk`를 내려받을 수 있습니다.
 
-본 APK는 Pleos 시뮬레이터에서 시험하는 디버그용 프로토타입입니다.
+- 파일명: `SaChaWon_StarRoute_release.apk`
+- 다운로드: https://github.com/skychun2024/StarRoute/releases/tag/v1.0.0
+
+본 APK는 Pleos Connect 시뮬레이터 환경에서 실행하도록 빌드한 서명된 Release 버전의 차량용 앱 프로토타입입니다.
